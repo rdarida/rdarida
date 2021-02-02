@@ -1,12 +1,13 @@
-### Hi there, I'm Robi! 👋
+### Hi there 👋
 
-#### I'm a Software Engineer from Budapest, Hungary.
+#### I'm a Software Engineer working in Budapest, Hungary.
+- 🏢 I'm currently working at **Play'n GO**
 
 <details>
   <summary>
-    <strong>MORE ABOUT ME</strong>
+    <strong>MORE</strong>
   </summary>
-  
+  <br />
   ![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)
 </details>
 

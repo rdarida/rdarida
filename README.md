@@ -7,7 +7,7 @@
   <summary>
     <strong>MORE</strong>
   </summary>
-  <br />
+  <br>
   ![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)
 </details>
 

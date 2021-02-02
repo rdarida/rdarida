@@ -3,7 +3,13 @@
 
 #### I'm a Software Engineer from Budapest, Hungary.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)
+<details>
+  <summary>
+    <strong>MORE ABOUT ME</strong>
+  </summary>
+  
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)
+</details>
 
 <!--
 **rdarida/rdarida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

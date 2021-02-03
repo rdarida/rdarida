@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me  
 
 💡 &nbsp;I'm a Software Engineer working in Budapest, Hungary.\
-🎓 &nbsp;\ 
 🏢 &nbsp;I'm currently working at **Play'n GO**.\
-📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)\
+🎓 &nbsp;TBD.\
+📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)&nbsp;[![]()]()\
 ⚡️ &nbsp;Fun fact: ...\
 
 ---

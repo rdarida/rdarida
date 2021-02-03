@@ -6,7 +6,7 @@
 🏢 &nbsp;I'm currently working at **Play'n GO**.\
 🎓 &nbsp;TBD.\
 📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)&nbsp;[![GitHub](https://img.shields.io/badge/-My_GitHub_Page-05122A?style=flat&logo=github)](https://rdarida.github.io)\
-⚡️ &nbsp;Fun fact: ...\
+<!--⚡️ &nbsp;Fun fact: ...\-->
 
 ---
 
@@ -47,18 +47,3 @@
 
 ---
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
-
-<!--
-**rdarida/rdarida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

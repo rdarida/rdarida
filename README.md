@@ -7,12 +7,6 @@
 🏢 &nbsp;I'm currently working at **Play'n GO**.\
 📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)\
 ⚡️ &nbsp;Fun fact: ...\
-
-### 🛠 &nbsp;Tech Stack
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-
 ---
 
 <details>
@@ -20,6 +14,12 @@
     <strong>MORE</strong>
   </summary>
   <br>
+  
+  ### 🛠 &nbsp;Tech Stack
+  
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)
 </details>

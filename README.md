@@ -30,6 +30,7 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=2684FF)&nbsp;
+  ![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonarcloud&logoColor=2684FF)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=2684FF)&nbsp;\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;

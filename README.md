@@ -12,7 +12,7 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
-### ✍🏻 &nbsp;My Articles at [Medium.com](https://rdarida.medium.com/)
+### ✍🏻 &nbsp;Articles at [Medium.com](https://rdarida.medium.com/)
 - [Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)
 - [Electron & Angular: The Boilerplate](https://rdarida.medium.com/electron-angular-the-boilerplate-a8db7f411416)
 - [Building a NodeJS project and deploying it into a DigitalOcean Droplet with Jenkins](https://rdarida.medium.com/building-a-nodejs-project-and-deploying-it-into-a-digitalocean-droplet-with-jenkins-6b46fa3054ef)

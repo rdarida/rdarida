@@ -29,6 +29,9 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;\
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+  ![Animate](https://img.shields.io/badge/-Animate-05122A?style=flat&logo=adobe-animate)&nbsp;
   
   ### ⚙️ &nbsp;GitHub Analytics
   ![My github stats](https://github-readme-stats.vercel.app/api?username=rdarida&show_icons=true)

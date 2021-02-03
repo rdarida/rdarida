@@ -22,10 +22,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;\
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Material-UI](https://img.shields.io/badge/-Material UI-05122A?style=flat&logo=material-ui)&nbsp;
+  ![Material-UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)&nbsp;
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby)&nbsp;
-  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD1B16)&nbsp;
   ![Pixi.js](https://img.shields.io/badge/-Pixi.js-05122A?style=flat&logo=pixi.js)&nbsp;\
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

@@ -16,12 +16,12 @@
   </summary>
   
   ### 🛠 &nbsp;Tech Stack
-  ![HTML](https://img.shields.io/badge/-HTML-EEEEEE?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-EEEEEE?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-EEEEEE?style=flat&logo=node.js)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-EEEEEE?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-EEEEEE?style=flat&logo=typescript)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-EEEEEE?style=flat&logo=java)&nbsp;\
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
   ![Material-UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui&logoColor=0081CB)&nbsp;
   ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
@@ -37,7 +37,7 @@
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=2684FF)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=2684FF)&nbsp;\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-25122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-25122A?style=flat&logo=eclipse-ide)&nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
   ![Animate](https://img.shields.io/badge/-Animate-05122A?style=flat&logo=adobe-animate)&nbsp;
   

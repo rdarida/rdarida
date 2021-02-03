@@ -9,7 +9,8 @@
 
 <!--
 ✍🏻 &nbsp;I wrote dev articles on Medium.&nbsp;\
-⚡️ &nbsp;Fun fact: ...\
+📝 &nbsp;Resume&nbsp;\
+⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
 ---

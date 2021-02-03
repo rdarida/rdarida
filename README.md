@@ -37,7 +37,7 @@
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=2684FF)&nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=2684FF)&nbsp;\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-05122A?style=flat&logo=eclipsse)&nbsp;
+  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-05122A?style=flat&logo=eclipse-ide)&nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
   ![Animate](https://img.shields.io/badge/-Animate-05122A?style=flat&logo=adobe-animate)&nbsp;
   

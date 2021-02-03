@@ -26,6 +26,7 @@
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby&logoColor=663399)&nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD1B16)&nbsp;
+  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
   ![Pixi.js](https://img.shields.io/badge/-Pixi.js-05122A?style=flat&logo=pixi.js)&nbsp;\
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

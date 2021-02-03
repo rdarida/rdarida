@@ -9,7 +9,9 @@
 ⚡️ &nbsp;Fun fact: ...\
 
 ### 🛠 &nbsp;Tech Stack
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ---
 

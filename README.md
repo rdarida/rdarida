@@ -3,10 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me  
 
 💡 I'm a Software Engineer working in Budapest, Hungary.\
-🎓 
-🏢 I'm currently working at **Play'n GO**
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)
-⚡️ Fun fact: ...
+🎓 \
+🏢 I'm currently working at **Play'n GO**.\
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)\
+⚡️ Fun fact: ...\
 ---
 
 <details>

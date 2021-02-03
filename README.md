@@ -12,7 +12,7 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
-### ✍🏻 &nbsp;My Articles on [![Medium](https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium)](https://rdarida.medium.com/)
+### ✍🏻 &nbsp;My Articles on [![Medium](https://img.shields.io/badge/-Medium-05122A?style=for-the-badge&logo=medium)](https://rdarida.medium.com/)
 
 - [Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)
 - [Electron & Angular: The Boilerplate](https://rdarida.medium.com/electron-angular-the-boilerplate-a8db7f411416)

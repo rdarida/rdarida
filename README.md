@@ -4,6 +4,10 @@
 - 🏢 I'm currently working at **Play'n GO**
 ---
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+
+---
+
 <details>
   <summary>
     <strong>MORE</strong>

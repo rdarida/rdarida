@@ -8,10 +8,14 @@
 📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)&nbsp;[![GitHub](https://img.shields.io/badge/-My_GitHub_Page-05122A?style=flat&logo=github)](https://rdarida.github.io)
 
 <!--
-✍🏻 &nbsp;I wrote dev articles on Medium.&nbsp;\
 📝 &nbsp;Resume&nbsp;\
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
+
+### ✍🏻 &nbsp;My Articles at [Medium.com](https://rdarida.medium.com/)
+- [Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)
+- [Electron & Angular: The Boilerplate](https://rdarida.medium.com/electron-angular-the-boilerplate-a8db7f411416)
+- [Building a NodeJS project and deploying it into a DigitalOcean Droplet with Jenkins](https://rdarida.medium.com/building-a-nodejs-project-and-deploying-it-into-a-digitalocean-droplet-with-jenkins-6b46fa3054ef)
 
 ---
 

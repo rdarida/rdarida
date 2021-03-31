@@ -12,7 +12,7 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
-### Projects
+### 🔨 &nbsp;Projects
 **These are the projects I work on in my free time:**
 - [simple-github-pages-deploy-action](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
 - [lerna-templater](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.

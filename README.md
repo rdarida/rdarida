@@ -12,6 +12,12 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
+### Projects
+These are projects I work on myself in my free time.
+- [simple-github-pages-deploy-action](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
+- [lerna-templater](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
+- [windows-zip](https://github.com/rdarida/windows-zip) - NodeJS tool for zipping and unzipping on Windows.
+
 ### ✍🏻 &nbsp;My Articles
 
 [Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)&nbsp;\

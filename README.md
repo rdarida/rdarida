@@ -16,7 +16,7 @@
 These are the projects I work on in my free time:
 - [**simple-github-pages-deploy-action**](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
 - [**lerna-templater**](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
-- [**windows-zip**](https://github.com/rdarida/windows-zip) - NodeJS tool for zipping and unzipping on Windows.
+- [**cross-platform-zip**](https://github.com/rdarida/windows-zip) - Cross-platform NodeJS tool for zipping and unzipping.
 
 ### ✍🏻 &nbsp;My Articles
 

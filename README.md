@@ -27,6 +27,7 @@ These are the projects I work on in my free time:
 - [**cross-platform-zip**](https://github.com/rdarida/windows-zip) - Cross-platform zipping and unzipping.
 
 ### ✨ &nbsp;Templates
+
 These are the templates I use:
 [**project-template**](https://github.com/rdarida/project-template)
 ---

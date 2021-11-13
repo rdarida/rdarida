@@ -28,7 +28,7 @@ These are the projects I work on in my free time:
 
 ### ✨ &nbsp;Templates
 
-These are the templates I use:
+These are the templates I use: \
 [**project-template**](https://github.com/rdarida/project-template)
 ---
 

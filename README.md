@@ -26,7 +26,7 @@ These are the projects I work on in my free time:
 - [**lerna-templater**](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
 - [**cross-platform-zip**](https://github.com/rdarida/windows-zip) - Cross-platform zipping and unzipping.
 
-### &nbsp;Templates
+### ✨ &nbsp;Templates
 These are the templates I use:
 - [**project-template**](https://github.com/rdarida/project-template)
 ---

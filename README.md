@@ -12,12 +12,6 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
-### 🔨 &nbsp;Projects
-These are the projects I work on in my free time:
-- [**simple-github-pages-deploy-action**](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
-- [**lerna-templater**](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
-- [**cross-platform-zip**](https://github.com/rdarida/windows-zip) - Cross-platform zipping and unzipping.
-
 ### ✍🏻 &nbsp;My Articles
 
 [Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)&nbsp;\
@@ -26,6 +20,15 @@ These are the projects I work on in my free time:
 
 [![Medium](https://img.shields.io/badge/-Medium-05122A?style=for-the-badge&logo=medium)](https://rdarida.medium.com/)
 
+### 🔨 &nbsp;Projects
+These are the projects I work on in my free time:
+- [**simple-github-pages-deploy-action**](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
+- [**lerna-templater**](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
+- [**cross-platform-zip**](https://github.com/rdarida/windows-zip) - Cross-platform zipping and unzipping.
+
+### &nbsp;Templates
+These are the templates I use:
+- [**project-template**](https://github.com/rdarida/project-template)
 ---
 
 <details>

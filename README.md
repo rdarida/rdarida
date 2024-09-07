@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me  
 
 💡 &nbsp;I'm a Software Engineer based in Budapest, Hungary.\
-🏢 &nbsp;I'm currently working at Cursor Insight.\
+🏢 &nbsp;I'm currently working at Play'n GO.\
 🎓 &nbsp;I graduated with a BSc in Computer Science from University of Szeged.\
 📫 &nbsp;How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rdarida/)&nbsp;[![GitHub](https://img.shields.io/badge/-My_GitHub_Page-05122A?style=flat&logo=github)](https://rdarida.github.io)
 

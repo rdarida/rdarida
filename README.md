@@ -12,18 +12,10 @@
 ⚡️ &nbsp;Fun fact: ...&nbsp;\
 -->
 
-### ✍🏻 &nbsp;My Articles
-
-[Electron & Angular: Live Reload](https://rdarida.medium.com/electron-angular-live-reload-13ebc9808bb5)&nbsp;\
-[Electron & Angular: The Boilerplate](https://rdarida.medium.com/electron-angular-the-boilerplate-a8db7f411416)&nbsp;\
-[Building a NodeJS project and deploying it into a DigitalOcean Droplet with Jenkins](https://rdarida.medium.com/building-a-nodejs-project-and-deploying-it-into-a-digitalocean-droplet-with-jenkins-6b46fa3054ef)
-
-[![Medium](https://img.shields.io/badge/-Medium-05122A?style=for-the-badge&logo=medium)](https://rdarida.medium.com/)
-
 ### 🔨 &nbsp;Projects
 These are the projects I work on in my free time:
-- [**simple-github-pages-deploy-action**](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
 - [**lerna-templater**](https://github.com/rdarida/lerna-templater) - Generates Package from Template for a Lerna Monorepo.
+- [**simple-github-pages-deploy-action**](https://github.com/rdarida/simple-github-pages-deploy-action) - Deploys a given folder to gh-pages branch with git.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

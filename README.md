@@ -22,8 +22,7 @@ These are the projects I work on in my free time:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![WebGL](https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl&logoColor=990000)&nbsp;
-
+![WebGL](https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl&logoColor=990000)&nbsp;  
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Material-UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui&logoColor=0081CB)&nbsp;
